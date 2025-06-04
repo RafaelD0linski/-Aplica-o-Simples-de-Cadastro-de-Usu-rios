@@ -1,4 +1,4 @@
-# -Aplica-o-Simples-de-Cadastro-de-Usu-rios
+# Aplicao-Simples-Cadastro-Usurios
 
 ✅ Checklist para o Sucesso do Projeto
 🔧 1. Preparação do Ambiente
